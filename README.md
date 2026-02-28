@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Bhavana 👋
 
-<!--
-**Bhavanamotupalli/bhavanamotupalli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Data Scientist | GenAI Engineer | Data Engineer  
+📍 Chicago, IL  
 
-Here are some ideas to get you started:
+I build scalable AI and ML systems with real-world impact.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔥 Tech Stack
+- Python, Pandas, NumPy
+- Scikit-learn, PyTorch
+- SQL, Snowflake
+- AWS (S3, Lambda, Glue)
+- GCP
+- LangChain, LLMs
+- Docker, CI/CD
+
+---
+
+## 📌 Current Focus
+- Generative AI Systems
+- Retrieval Augmented Generation (RAG)
+- Production ML Pipelines
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: www.linkedin.com/in/bhavana-motupalli-408019191
+- Email: bhavanamotupalli01@gmail.com
